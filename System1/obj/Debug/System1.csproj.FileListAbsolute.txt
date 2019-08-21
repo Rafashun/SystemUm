@@ -1,0 +1,9 @@
+c:\users\rafael.rdsilva\documents\visual studio 2015\Projects\System1\System1\bin\Debug\System1.exe.config
+c:\users\rafael.rdsilva\documents\visual studio 2015\Projects\System1\System1\bin\Debug\System1.exe
+c:\users\rafael.rdsilva\documents\visual studio 2015\Projects\System1\System1\bin\Debug\System1.pdb
+c:\users\rafael.rdsilva\documents\visual studio 2015\Projects\System1\System1\obj\Debug\System1.csprojResolveAssemblyReference.cache
+c:\users\rafael.rdsilva\documents\visual studio 2015\Projects\System1\System1\obj\Debug\System1.Form1.resources
+c:\users\rafael.rdsilva\documents\visual studio 2015\Projects\System1\System1\obj\Debug\System1.Properties.Resources.resources
+c:\users\rafael.rdsilva\documents\visual studio 2015\Projects\System1\System1\obj\Debug\System1.csproj.GenerateResource.Cache
+c:\users\rafael.rdsilva\documents\visual studio 2015\Projects\System1\System1\obj\Debug\System1.exe
+c:\users\rafael.rdsilva\documents\visual studio 2015\Projects\System1\System1\obj\Debug\System1.pdb
